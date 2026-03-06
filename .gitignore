@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch checkpoints (keep best/final only via explicit commit)
+# checkpoints/
+
+# Data files (too large for git)
+data/gowalla_checkins.txt
+data/gowalla_checkins.txt.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp

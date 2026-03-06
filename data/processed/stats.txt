@@ -1,0 +1,6 @@
+n_users	30038
+n_items	41137
+n_train	847671
+n_val	91320
+n_test	91320
+density	0.083381
